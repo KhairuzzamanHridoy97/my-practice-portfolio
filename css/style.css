@@ -6,7 +6,9 @@ body{
 h1{
     font-size: 60px;
 }
-
+h2{
+    font-size: 40px;
+}
 .red{
     color: rgb(201, 64, 64);
 }
@@ -43,3 +45,5 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+
