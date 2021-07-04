@@ -8,11 +8,12 @@ h1{
 }
 
 .red{
-    color: lightcoral;
+    color: rgb(201, 64, 64);
 }
 
 .flexi{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .width-sizing{
@@ -26,7 +27,7 @@ h1{
     background: linear-gradient(salmon,red);
     color: #fff;
     font-weight: 700;
-    padding: 12px 30px;
+    padding: 12px 40px;
     border-radius: 16px;
 }
 
@@ -36,4 +37,9 @@ h1{
 .top-ban{
     background-image: url(/img/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-sec{
+    background-image: url(/img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
