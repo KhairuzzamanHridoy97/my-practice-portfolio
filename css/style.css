@@ -46,4 +46,30 @@ h2{
     background-position: right;
 }
 
+.exper-area{
+    background-image: url(/img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
+#full-stack{
+    border-left: 8px solid;
+    border-image: linear-gradient(blue,red);
+    border-image-slice: 1;
+}
+
+#baby-dev{
+    border-left: 8px solid;
+    border-image: linear-gradient(rgb(72, 255, 0),rgb(221, 31, 158));
+    border-image-slice: 1;
+}
+
+
+
+.exp-item{
+    width: 46%;
+    margin-left: 4%;
+    margin-right: 4%;
+    box-shadow: 10px 10px  10px rgba(10, 64, 0,.6);
+
+}
