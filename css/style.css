@@ -47,7 +47,7 @@ h2{
 }
 
 .exper-area{
-    background-image: url(img/exp-bg.png);
+    background-image: url("./img/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
